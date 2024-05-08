@@ -1,9 +1,9 @@
 # Lab 5 by Piao Xie
 ### No Partner this week :(
 
-[expose.html](https://PiaoX.github.io/expose.html) 
+[expose.html](https://PiaoX.github.io/cse110_lab5/expose.html) 
 
-[explore.html](https://PiaoX.github.io/explore.html) 
+[explore.html](https://PiaoX.github.io/cse110_lab5/explore.html) 
 
 1) No, I would not use a unit test to test the messaging feature in a messaging app because this feature involves complex interactions, which unit tests aren't designed to handle efficiently. Unit tests are designed for isolated units or functions, not for testing such complex interactions. 
 
